@@ -2,7 +2,6 @@ package com.anumalasi.journalApp.controller;
 
 import com.anumalasi.journalApp.entity.User;
 import com.anumalasi.journalApp.service.UserService;
-import org.apache.coyote.Response;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
